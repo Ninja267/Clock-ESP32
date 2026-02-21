@@ -1,0 +1,14 @@
+# Python / MicroPython
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+config.py
+
+# macOS
+.DS_Store
+
+# Firmware binaries
+*.bin
